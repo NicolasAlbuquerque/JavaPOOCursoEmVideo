@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;aula03.caneta.java&apos; to &apos;Caneta.java&apos;&#x0D;&#x0A;- Original project: &apos;Aula03&apos;&#x0D;&#x0A;- Original element: &apos;aula03.caneta.java&apos;&#x0D;&#x0A;- Renamed element: &apos;aula03.Caneta.java&apos;" description="Rename compilation unit &apos;caneta.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;aula03{caneta.java" name="Caneta.java" references="false" stamp="1676832134776" version="1.0"/>
+</session>
