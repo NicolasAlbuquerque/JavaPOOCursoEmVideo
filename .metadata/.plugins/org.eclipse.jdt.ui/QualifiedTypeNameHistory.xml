@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="funcionario.Funcionario"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthScrollPaneUI"/>
+    <fullyQualifiedTypeName name="aula06.Controlador"/>
 </qualifiedTypeNameHistroy>
